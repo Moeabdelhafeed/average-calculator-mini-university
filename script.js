@@ -12,7 +12,7 @@ function showresult(){
             alert("you should fill out all the feilds");
             return 1;
         }
-        sum += parseInt(inputValue); 
+        sum += parseFloat(inputValue); 
     }
     
 
